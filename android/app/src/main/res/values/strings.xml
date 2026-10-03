@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Nyimbo Za Chitsitsimutso</string>
+    <string name="title_activity_main">Nyimbo Za Chitsitsimutso</string>
+    <string name="package_name">com.lucas.hymnapp</string>
+    <string name="custom_url_scheme">com.lucas.hymnapp</string>
+</resources>
